@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_icon_name">Brais Android 1</string>
+    <string name="app_name">Cantina de Mos Eisley</string>
+    <string name="remove">Eliminar</string>
+    <string name="add">Añadir</string>
+
+    // Tables
+    <string name="table_number">Mesa %d</string>
+
+    // Menus
+    <string name="add_menu">Añadir menú</string>
+    <string name="menu_credits">%s créditos</string>
+
+    // Transitions
+    <string name="transition_to_detail">transition_to_detail</string>
+
+</resources>
